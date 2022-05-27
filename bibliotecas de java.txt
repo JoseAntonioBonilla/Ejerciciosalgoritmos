@@ -1,9 +1,0 @@
-compatibilidad de java
-
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-https://caniuse.com/
-
-navegadores mas usados en el mundo 
-
-https://gs.statcounter.com/
