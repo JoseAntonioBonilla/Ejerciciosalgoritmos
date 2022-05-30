@@ -41,5 +41,6 @@ else {
 console.log("el numero menor es:" + Menor);
 
 
-
+//3 
+solucion
 
